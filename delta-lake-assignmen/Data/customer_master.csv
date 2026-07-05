@@ -1,0 +1,51 @@
+Customer_ID,Customer_Name,Segment,Country,City,State
+EG-13900,Emily Grady,Consumer,United States,Oceanside,New York
+SM-20005,Sally Matthias,Consumer,United States,New York City,New York
+BD-11770,Bryan Davis,Consumer,United States,Houston,Texas
+MM-17920,Michael Moore,Consumer,United States,San Francisco,California
+BF-10975,Barbara Fisher,Corporate,United States,Fayetteville,North Carolina
+CK-12760,Cyma Kinney,Corporate,United States,Arlington,Virginia
+GH-14410,Gary Hansen,Home Office,United States,Perth Amboy,New Jersey
+MS-17365,Maribeth Schnelling,Consumer,United States,Carlsbad,New Mexico
+KD-16495,Keith Dawkins,Corporate,United States,Philadelphia,Pennsylvania
+TC-21475,Tony Chapman,Home Office,United States,Fayetteville,Arkansas
+ML-17755,Max Ludwig,Home Office,United States,Suffolk,Virginia
+RW-19540,Rick Wilson,Corporate,United States,Los Angeles,California
+HA-14905,Helen Abelman,Consumer,United States,Franklin,Massachusetts
+HG-14845,Harry Greene,Consumer,United States,Lake Charles,Louisiana
+EH-13765,Edward Hooks,Corporate,United States,New York City,New York
+RB-19705,Roger Barcio,Home Office,United States,Houston,Texas
+AA-10645,Anna Andreadi,Consumer,United States,San Diego,California
+JE-15715,Joe Elijah,Consumer,United States,Monroe,North Carolina
+JP-16135,Julie Prescott,Home Office,United States,Philadelphia,Pennsylvania
+NC-18535,Nick Crebassa,Corporate,United States,Phoenix,Arizona
+TB-21190,Thomas Brumley,Home Office,United States,Los Angeles,California
+ER-13855,Elpida Rittenbach,Corporate,United States,Charlotte,North Carolina
+MH-17620,Matt Hagelstein,Corporate,United States,Houston,Texas
+SK-19990,Sally Knutson,Consumer,United States,Fairfield,Connecticut
+DJ-13420,Denny Joy,Corporate,United States,San Francisco,California
+LS-17245,Lynn Smith,Consumer,United States,San Francisco,California
+JE-15475,Jeremy Ellison,Consumer,United States,Houston,Texas
+AB-10600,Ann Blume,Corporate,United States,Jacksonville,North Carolina
+BG-11035,Barry Gonzalez,Consumer,United States,Hampton,Virginia
+CL-11890,Carl Ludwig,Consumer,United States,Chicago,Illinois
+JO-15550,Jesus Ocampo,Home Office,United States,Omaha,Nebraska
+EJ-13720,Ed Jacobs,Consumer,United States,Huntsville,Texas
+JK-15205,Jamie Kunitz,Consumer,United States,Hialeah,Florida
+KL-16555,Kelly Lampkin,Corporate,United States,Colorado Springs,Colorado
+ES-14020,Erica Smith,Consumer,United States,San Francisco,California
+EB-13930,Eric Barreto,Consumer,United States,Richmond,Virginia
+RM-19675,Robert Marley,Home Office,United States,Los Angeles,California
+VT-21700,Valerie Takahito,Home Office,United States,Houston,Texas
+AG-10270,Alejandro Grove,Consumer,United States,New York City,New York
+CJ-12010,Caroline Jumper,Consumer,United States,Huntington Beach,California
+JM-15535,Jessica Myrick,Consumer,United States,Philadelphia,Pennsylvania
+EJ-14155,Eva Jacobs,Consumer,United States,Gulfport,Mississippi
+BM-11785,Bryan Mills,Consumer,United States,Houston,Texas
+RC-19825,Roy Collins,Consumer,United States,Pasadena,California
+TS-21160,Theresa Swint,Corporate,United States,Philadelphia,Pennsylvania
+SJ-20125,Sanjit Jacobs,Home Office,United States,Texarkana,Arkansas
+JE-15745,Joel Eaton,Consumer,United States,Oceanside,California
+DJ-13510,Don Jones,Corporate,United States,Woonsocket,Rhode Island
+CR-12580,Clay Rozendal,Home Office,United States,New York City,New York
+SD-20485,Shirley Daniels,Home Office,United States,Bedford,Texas
